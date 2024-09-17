@@ -6,3 +6,5 @@ kibana:7.17.21
 logstash:7.17.21
 elastic/filebeat:7.17.21
 bitnami/kafka
+mongodb/mongodb-community-server
+neo4j
