@@ -8,3 +8,4 @@ logstash:7.17.21
 elastic/filebeat:7.17.21
 bitnami/kafka
 neo4j
+cassandra
