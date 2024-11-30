@@ -7,5 +7,7 @@ kibana:7.17.21
 logstash:7.17.21
 elastic/filebeat:7.17.21
 bitnami/kafka
-neo4j
-cassandra
+nacos/nacos-server
+grafana/loki
+grafana/promtail
+grafana/grafana
